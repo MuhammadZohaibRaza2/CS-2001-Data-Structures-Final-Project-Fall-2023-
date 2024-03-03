@@ -31,7 +31,12 @@ Thorough testing has been conducted to ensure the accuracy and reliability of th
 ### Conclusion:
 This project provides a comprehensive exploration of distributed data structures, particularly DHTs and B-Trees. It demonstrates the effectiveness of these structures in creating a robust and efficient file-sharing system using the IPFS protocol. With thorough implementation and testing, the system ensures reliable storage and retrieval of files across multiple machines in a decentralized network.
 
+## Project Details
+- **Course**: CS-2001 Data Structures
+- **Final Project**: Fall 2023
 
+## License
+This project is licensed under the terms of the MIT license.
 
 ## Requirements to Run:
 

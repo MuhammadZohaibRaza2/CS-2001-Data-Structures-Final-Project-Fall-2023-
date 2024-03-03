@@ -4,8 +4,8 @@
 This project implements a distributed file-sharing system using the Interplanetary File System (IPFS) protocol. It utilizes concepts such as Distributed Hash Tables (DHTs) and B-Trees to enable efficient storage and retrieval of files across multiple machines in a peer-to-peer network.
 
 ### Group Members:
-- **Muhammad Awais (22i-1315)**
 - **Muhammad Zohaib Raza (22i-1331)**
+- **Muhammad Awais (22i-1315)**
 - **Muhammad Umair Nawaz (22i-0913)**
 
 ### Description:

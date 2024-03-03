@@ -45,4 +45,7 @@ This project is licensed under the terms of the MIT license.
 
 - **OpenSSL Library Inclusion:**
   - It is essential to include the OpenSSL library in your Visual Studio project.
-  - To download and include OpenSSL in your project, please refer to the instructions provided in #####.
+  - To obtain and incorporate OpenSSL into your project, please follow the instructions provided below:
+    - [Download OpenSSL 1.1.1](https://drive.google.com/file/d/16NRmKE2a3kwWns3eiVtMiLp1rIqniKOa/view?usp=drive_link)
+  - Learn how to include OpenSSL 1.1.1 with Visual Studio by referring to the following guide:
+    - [Tutorial on including OpenSSL 1.1.1 with Visual Studio](https://drive.google.com/file/d/1vPQWizLn__o958FUaeCPLEQfmuknOEar/view?usp=drive_link)

@@ -30,3 +30,12 @@ Thorough testing has been conducted to ensure the accuracy and reliability of th
 
 ### Conclusion:
 This project provides a comprehensive exploration of distributed data structures, particularly DHTs and B-Trees. It demonstrates the effectiveness of these structures in creating a robust and efficient file-sharing system using the IPFS protocol. With thorough implementation and testing, the system ensures reliable storage and retrieval of files across multiple machines in a decentralized network.
+
+# Requirements to Run:
+
+- **Visual Studio Environment:**
+  - Ensure you have Visual Studio 2022 Community edition installed on your system.
+
+- **OpenSSL Library Inclusion:**
+  - It is essential to include the OpenSSL library in your Visual Studio project.
+  - To download and include OpenSSL in your project, please refer to the instructions provided in #####.
